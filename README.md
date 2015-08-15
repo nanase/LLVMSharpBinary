@@ -1,9 +1,11 @@
-lexgen
-======
+LLVMSharpBinary
+===============
 
-_Automatic lex code generator for Lury_
+_Pre-built libraries for [LLVMSharp](https://github.com/mjsabby/LLVMSharp)_
 
 ## License
-### Lury
-[__MIT License__](../master/LICENSE.lexgen) /
-Copyright (C) 2015 Tomona Nanase
+### LLVM 
+[__University of Illinois Open Source License__](../master/LICENSE.llvm)
+
+### LLVMSharp
+[__University of Illinois Open Source License__](../master/LICENSE.llvmsharp)
